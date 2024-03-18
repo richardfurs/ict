@@ -1,0 +1,1 @@
+<footer class="bg-gray-800 sticky bottom-0 text-slate-500 py-5 flex justify-center"><p>@ 2024 All rights reserved.</p></footer>
